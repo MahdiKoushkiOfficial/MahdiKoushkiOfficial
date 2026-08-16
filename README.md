@@ -1,114 +1,40 @@
 # Hi, I'm Mahdi 👋
 
-### Python Developer | Backend Development
+### Python Developer | Backend Development | Machine Learning Enthusiast
 
-I'm a Python developer focused on building practical applications and improving my backend development skills.
+I'm a Python developer focused on building practical applications and improving my backend development skills, with a strong interest in Machine Learning and Artificial Intelligence.
 
-I enjoy turning ideas into functional software, working with databases, designing clean application structures, and continuously learning new technologies.
-
----
-
-## 💻 Tech Stack
-
-### Languages
-- Python
-- SQL
-- HTML
-- CSS
-- JavaScript
-
-### Frameworks & Libraries
-- Flask
-- CustomTkinter
-- Cryptography
-- Requests
-
-### Tools & Technologies
-- SQLite
-- Git
-- GitHub
-- REST APIs
+I enjoy building real-world projects, working with databases, designing clean application structures, and continuously learning new technologies.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technologies & Tools
 
-### 🔐 Password Manager
-
-A secure web-based password manager built with Python and Flask.
-
-**Highlights:**
-- User authentication
-- Secure password encryption using Fernet
-- Password generator
-- Password strength analysis
-- Password search and management
-- Dark and light mode
-- clean interface
-- SQLite database
-
-🔗 [View Project](https://github.com/MahdiKoushkiOfficial/password-manager)
-
----
-
-### 🌦️ Weather Dashboard
-
-A desktop weather application built with Python and CustomTkinter.
-
-**Highlights:**
-- Weather data from an external API
-- City search and management
-- Weather information visualization
-- Dark and light mode
-- SQLite database
-- Clean graphical interface
-
-🔗 [View Project](https://github.com/MahdiKoushkiOfficial/weather-dashboard)
-
----
-
-### ✅ Habit Tracker
-
-A desktop habit tracking application built with Python and CustomTkinter.
-
-**Highlights:**
-- Create, edit, and delete habits
-- Multiple habit tracking methods
-- Daily progress tracking
-- Progress visualization
-- Several tracking types
-- Reminder support
-- Dark and light mode
-- JSON backup and restore
-- SQLite database
-
-🔗 [View Project](https://github.com/MahdiKoushkiOfficial/habit-tracker)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📚 Currently Learning
 
-I'm currently focusing on improving my skills in:
-
 - Backend development with Python
-- Flask and REST APIs
+- Flask & REST APIs
 - SQL and database design
 - Software architecture
-- Git and GitHub
-- Writing clean and maintainable code
-
----
-
-## 🎯 Goals
-
-My current goal is to become a stronger Python backend developer by building practical projects, improving my software development fundamentals, and gaining professional experience.
+- Machine Learning & Artificial Intelligence
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: [@MahdiKoushkiOfficial](https://github.com/MahdiKoushkiOfficial)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahdiKoushkiOfficial)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+⭐ Thanks for visiting my profile!
