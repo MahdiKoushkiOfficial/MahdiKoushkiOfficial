@@ -44,7 +44,7 @@ A secure web-based password manager built with Python and Flask.
 - Password strength analysis
 - Password search and management
 - Dark and light mode
-- Responsive and clean interface
+- clean interface
 - SQLite database
 
 🔗 [View Project](https://github.com/MahdiKoushkiOfficial/password-manager)
@@ -76,7 +76,7 @@ A desktop habit tracking application built with Python and CustomTkinter.
 - Multiple habit tracking methods
 - Daily progress tracking
 - Progress visualization
-- Categories and priorities
+- Several tracking types
 - Reminder support
 - Dark and light mode
 - JSON backup and restore
@@ -108,7 +108,6 @@ My current goal is to become a stronger Python backend developer by building pra
 ## 📫 Connect With Me
 
 - GitHub: [@MahdiKoushkiOfficial](https://github.com/MahdiKoushkiOfficial)
-- LinkedIn: [My LinkedIn Profile](#)
 
 ---
 
